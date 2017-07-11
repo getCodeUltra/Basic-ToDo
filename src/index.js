@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-import { SelectableGroup, createSelectable } from 'react-selectable';
 import List from './List';
 import './index.css';
 import './index.html';
